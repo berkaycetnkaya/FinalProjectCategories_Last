@@ -3,7 +3,9 @@
 
 
 // ENGLISH
-This is a project for a company that works on rent a car, this project support with backend stracture from this link "https://github.com/berkaycetnkaya/FinalProjectCategories_Last". And also, this project is getting developped by Berkay Çetinkaya day by day. All commits will be pushed with description commends like "this is a new update for cars' adding system". You can connect with me on mail "berkay.cetinkaya@tedu.edu.tr" for advising new feature about project or new projects also you can ask whatever point of the project you consider or do not understand. I will be happy to answer and explain your questions.
+
+
+This is a project for a company that works on rent a car, this project support with frontend stracture from this link https://github.com/berkaycetnkaya/RentACar. And also, this project is getting developped by Berkay Çetinkaya day by day. All commits will be pushed with description commends like "this is a new update for cars' adding system". You can connect with me on mail "berkay.cetinkaya@tedu.edu.tr" for advising new feature about project or new projects also you can ask whatever point of the project you consider or do not understand. I will be happy to answer and explain your questions.
 
 
 // TURKISH
